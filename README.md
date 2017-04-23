@@ -4,13 +4,13 @@ This is a micropython script for micro:bit made by **Ákos Vecsei**
 
 With this script you can use your micro:bit as a Scratch ( developed by MIT) controller.
 
-## [DEMO VIDEO](https://www.youtube.com/edit?o=U&video_id=F8J47OMNxso)
+### [DEMO VIDEO](https://www.youtube.com/edit?o=U&video_id=F8J47OMNxso)
 
 ## What do you need?
 
-- a micro:bit with USB cable
+- A micro:bit with USB cable.
 
-## How can install it?
+## How can you install it?
 
 - Download the scratchbit.py script.
 
@@ -18,25 +18,27 @@ With this script you can use your micro:bit as a Scratch ( developed by MIT) con
 
 - Start [Scratch](http://scratch.mit.edu)
 
-- Add the PicoBoard extension in Scratch.
+- Add the built-in PicoBoard extension.
 
--When "C" is displayed on the micro:bit, the connection was established
+- When "C" is displayed on the micro:bit, the connection was established.
+
+- You can use the scratchbitdemo.sb2 to try it.
 
 
 ## How can you use it?
 
-- The "resistance-A" in Scratch represents the press of the "A" button on the micro:bit
+- The "resistance-A" in Scratch represents the press of the "A" button on the micro:bit.
 
-- The "resistance-B" in Scratch represents the press of the "B" button on the micro:bit
+- The "resistance-B" in Scratch represents the press of the "B" button on the micro:bit.
 
-- The "resistance-C" in Scratch represents the X direction tilt of the micro:bit
+- The "resistance-C" in Scratch represents the X direction tilt of the micro:bit.
 
-- The "resistance-D" in Scratch represents the Y direction tilt of the micro:bit
+- The "resistance-D" in Scratch represents the Y direction tilt of the micro:bit.
 
-- The "light" in Scratch represents the value of the micro:bit's P0 pin
+- The "light" in Scratch represents the value of the micro:bit's P0 pin.
 
-- The "sound" in Scratch represents the value of the micro:bit's P1 pin
+- The "sound" in Scratch represents the value of the micro:bit's P1 pin.
 
-- The "slider" in Scratch represents the value of the micro:bit's P2 pin
+- The "slider" in Scratch represents the value of the micro:bit's P2 pin.
 
 
