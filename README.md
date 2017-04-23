@@ -4,11 +4,13 @@ This is a micropython script for micro:bit made by **Ákos Vecsei**
 
 With this script you can use your micro:bit as a Scratch ( developed by MIT) controller.
 
-# What do you need?
+## [DEMO VIDEO](https://www.youtube.com/edit?o=U&video_id=F8J47OMNxso)
+
+## What do you need?
 
 - a micro:bit with USB cable
 
-# How can install it?
+## How can install it?
 
 - Download the scratchbit.py script.
 
@@ -21,7 +23,7 @@ With this script you can use your micro:bit as a Scratch ( developed by MIT) con
 -When "C" is displayed on the micro:bit, the connection was established
 
 
-# How can you use it?
+## How can you use it?
 
 - The "resistance-A" in Scratch represents the press of the "A" button on the micro:bit
 
