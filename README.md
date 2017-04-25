@@ -27,7 +27,7 @@ A **micro:bit** with **USB cable**.
 
 5. When "C" is displayed on the micro:bit, the connection was established.
 
-6. You can use the `scratchbitdemo.sb2` to try it.
+6. You can download the `scratchbitdemo.sb2` or use the [online version](https://scratch.mit.edu/projects/157159412) to try it.
 
 
 ## How can you use it?
