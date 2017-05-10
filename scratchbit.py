@@ -53,8 +53,8 @@ while True:
         else:
             convert(4, 0)
 # Read P0 analog value from MicroBit
-            convert(5, 1023 - pin0.read_analog())
+        convert(5, 1023 - pin0.read_analog())
 # Read P1 analog value from MicroBit
-            convert(6, pin1.read_analog())
+        convert(6, pin1.read_analog())
 # Read P2 analog value from MicroBit
-            convert(7, pin2.read_analog())
+        convert(7, pin2.read_analog())
