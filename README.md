@@ -4,7 +4,7 @@ This is a micropython script for micro:bit made by **Ákos Vecsei**
 
 With this script you can use your micro:bit as a Scratch *(developed by MIT)* controller.
 
-### [DEMO VIDEO] (https://www.youtube.com/watch?v=nJengUwURdE&feature=youtu.be)
+### [DEMO VIDEO](https://www.youtube.com/watch?v=nJengUwURdE&feature=youtu.be)
 
 ## What do you need?
 
